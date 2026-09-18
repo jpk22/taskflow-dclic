@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['https://taskflow-dclic.onrender.com'],
+    'allowed_origins' => ['https://taskflow-dclic-1.onrender.com'],
 
     'allowed_origins_patterns' => [],
 
